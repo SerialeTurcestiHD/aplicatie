@@ -9,5 +9,7 @@ Server: Online 🟢
 -Fără înregistrare
 -Fără viruși
 
+O poti descarca de <a href="https://raw.githubusercontent.com/SerialeTurcestiHD/aplicatie/main/serialeturcesti.apk">aici</a>
+
 PS: Nu suntem responsabili de materialele regăsite în aplicație, noi doar indexăm conținutul altor site-uri (la fel că google, yandex, etc.). Dacă vreun material încalcă dreputurile de autor trebuie să va adresați direct celor care dețin acele materiale pe site-ul lor.
 Această aplicație doar afișează anumite site-uri și le face disponibile pe android.
