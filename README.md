@@ -8,9 +8,10 @@ Server: Online 🟢
 -Gratuit <br>
 -Fără înregistrare <br>
 -Fără viruși <br>
-<img src="https://github.com/SerialeTurcestiHD/aplicatie/blob/main/pz1.png?raw=true"/> <br>
 
-<h2>O poti descarca de <a href="https://raw.githubusercontent.com/SerialeTurcestiHD/aplicatie/main/serialeturcesti.apk">aici</a></h2>h2>
+<img width="100px" height="400px" src="https://github.com/SerialeTurcestiHD/aplicatie/blob/main/pz1.png?raw=true"/> <br>
+
+<h2>O poti descarca de <a href="https://raw.githubusercontent.com/SerialeTurcestiHD/aplicatie/main/serialeturcesti.apk">aici</a></h2>
 
 <br>
 PS: Nu suntem responsabili de materialele regăsite în aplicație, noi doar indexăm conținutul altor site-uri (la fel că google, yandex, etc.). Dacă vreun material încalcă dreputurile de autor trebuie să va adresați direct celor care dețin acele materiale pe site-ul lor.
