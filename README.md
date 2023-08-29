@@ -1,5 +1,7 @@
-# aplicatie
+# ✅ Aplicatie de seriale turcesti
 Aplicația de seriale turcești este disponibilă
+
+Server: Online 🟢
 
 -Găsești toate serialele turcești
 -Fără reclame
